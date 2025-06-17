@@ -4,6 +4,8 @@ INTERN ID:CITS0D85
 DOMAIN:SOFTWARE DEVLOPMENT
 DURATION:6WEEKS
 MENTOR NAME: NEELA SANNTOSH
+#OUPPUT
+![Image](https://github.com/user-attachments/assets/059dc147-9be4-4fc2-a296-8bbe4887a643)
 #I USE CODE FOR RUN THE OPERATIONS
 #TOOLS I HAVE USED
 HTML (HyperText Markup Language)
@@ -49,3 +51,4 @@ Responsive Design - Works on all devices
 Fast Loading - Optimized performance
 Professional Design - Clean, modern aesthetic
 Would you like me to help you create a portfolio website using the tools we have available? I can build you a beautiful, responsive portfolio with modern design principles, smooth animations, and all the essential sections you need to showcase your work effectively!
+
